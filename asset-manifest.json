@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vinfo/static/css/main.75504801.chunk.css",
+    "main.js": "/vinfo/static/js/main.b6132290.chunk.js",
+    "main.js.map": "/vinfo/static/js/main.b6132290.chunk.js.map",
+    "runtime-main.js": "/vinfo/static/js/runtime-main.df68b731.js",
+    "runtime-main.js.map": "/vinfo/static/js/runtime-main.df68b731.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/vinfo/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3fb4fd01.chunk.js": "/vinfo/static/js/2.3fb4fd01.chunk.js",
+    "static/js/2.3fb4fd01.chunk.js.map": "/vinfo/static/js/2.3fb4fd01.chunk.js.map",
+    "index.html": "/vinfo/index.html",
+    "precache-manifest.8d47d97e1355536d9ed6020c7ded68ae.js": "/vinfo/precache-manifest.8d47d97e1355536d9ed6020c7ded68ae.js",
+    "service-worker.js": "/vinfo/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/vinfo/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.75504801.chunk.css.map": "/vinfo/static/css/main.75504801.chunk.css.map",
+    "static/js/2.3fb4fd01.chunk.js.LICENSE.txt": "/vinfo/static/js/2.3fb4fd01.chunk.js.LICENSE.txt",
+    "static/media/car-vector.png": "/vinfo/static/media/car-vector.927c51a3.png",
+    "static/media/index.css": "/vinfo/static/media/gears.c397ba08.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df68b731.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3fb4fd01.chunk.js",
+    "static/css/main.75504801.chunk.css",
+    "static/js/main.b6132290.chunk.js"
+  ]
+}

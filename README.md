@@ -1,4 +1,4 @@
-#vinfo  
+# vinfo  
 VINfo is a VIN decoder written in React.  
 ---  
 What is a VIN? https://en.wikipedia.org/wiki/Vehicle_identification_number  
